@@ -1,0 +1,28 @@
+﻿** Met en surbrillance
+     Tables qui seront recréées avec les données migrées
+       Aucun
+     Index ordonnés en clusters à supprimer
+       Aucun
+     Index ordonnés en clusters à créer.
+       Aucun
+     Problèmes de données possibles
+       Aucun
+
+** Actions de l'utilisateur
+     Créer
+       [dbo].[CATEGORIES] (Table)
+       [dbo].[CUSTOMERS] (Table)
+       [dbo].[EMPLOYEES] (Table)
+       [dbo].[ORDER_DETAILS] (Table)
+       [dbo].[ORDERS] (Table)
+       [dbo].[PRODUCTS] (Table)
+       [dbo].[SUPPLIERS] (Table)
+       [dbo].[FK_EMPLOYEES_EMPLOYES] (Clé étrangère)
+       [dbo].[FK_ORDER_DETAILS_ORDERS] (Clé étrangère)
+       [dbo].[FK_ORDER_DETAILS_PRODUCTS] (Clé étrangère)
+       [dbo].[FK_ORDERS_CUSTOMERS] (Clé étrangère)
+       [dbo].[FK_ORDERS_EMPLOYEES] (Clé étrangère)
+       [dbo].[FK_PRODUCTS_CATEGORIE] (Clé étrangère)
+       [dbo].[FK_PRODUCTS_SUPPLIERS] (Clé étrangère)
+
+** Actions de support

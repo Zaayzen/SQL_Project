@@ -1,0 +1,10 @@
+C:\Users\zamou\source\repos\SQL_Projet\bin\Debug\SQL_Projet.dacpac
+C:\Users\zamou\source\repos\SQL_Projet\bin\Debug\SQL_Projet.dll
+C:\Users\zamou\source\repos\SQL_Projet\bin\Debug\SQL_Projet.pdb
+C:\Users\zamou\source\repos\SQL_Projet\obj\Debug\SQL_Projet.sqlproj.AssemblyReference.cache
+C:\Users\zamou\source\repos\SQL_Projet\obj\Debug\Model.xml
+C:\Users\zamou\source\repos\SQL_Projet\obj\Debug\refactor.xml
+C:\Users\zamou\source\repos\SQL_Projet\obj\Debug\postdeploy.sql
+C:\Users\zamou\source\repos\SQL_Projet\obj\Debug\predeploy.sql
+C:\Users\zamou\source\repos\SQL_Projet\obj\Debug\SQL_Projet.dll
+C:\Users\zamou\source\repos\SQL_Projet\obj\Debug\SQL_Projet.pdb

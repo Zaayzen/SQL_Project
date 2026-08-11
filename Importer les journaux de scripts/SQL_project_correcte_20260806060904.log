@@ -1,0 +1,13 @@
+06/08/2026 19:09:04	Ce journal contient des informations sur l'importation du script 'SQL_project_corrected (1).sql' dans le projet 'SQL_Projet' sur l'ordinateur 'ZENBOOKDEAIMEN' par l'utilisateur 'zamou.
+06/08/2026 19:09:04	Début de l'importation du fichier : C:\Users\zamou\Downloads\SQL_project_corrected (1).sql 
+06/08/2026 19:09:05	Nom de fichier C:\Users\zamou\Downloads\SQL_project_corrected (1).sql (taille : 237358)
+06/08/2026 19:09:05	Analyse du script d'importation
+06/08/2026 19:09:05	Nombre total de lots dans le script : 1
+06/08/2026 19:09:05	Nombre total d'instructions dans le script : 14
+06/08/2026 19:09:05	Le script a été correctement importé dans le projet.
+06/08/2026 19:09:05	Analyse des objets de schéma...
+06/08/2026 19:09:05	Analyse du projet à la recherche des éléments en double
+06/08/2026 19:09:05	Fin du traitement des éléments en double
+06/08/2026 19:09:05	Dans le script que vous avez fourni à l'opération d'importation, une ou plusieurs instructions n'ont pas été totalement comprises. Elles ont été déplacées vers le fichier ScriptsIgnoredOnImport.sql. Pour plus d'informations, examinez le contenu du fichier.
+06/08/2026 19:09:05	Un résumé de l'opération d'importation a été enregistré à l'emplacement suivant : C:\Users\zamou\source\repos\SQL_Projet\Importer les journaux de scripts\SQL_project_correcte_20260806060904.log.
+06/08/2026 19:09:05	Cliquez sur Terminer pour continuer...
